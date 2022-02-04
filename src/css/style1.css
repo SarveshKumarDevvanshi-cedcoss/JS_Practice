@@ -1,0 +1,23 @@
+.card{
+    width: 300px;
+text-align: justify;
+}
+.wrapper{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin: 2%;
+padding: 15% 10% 10% 10%;
+}
+.row input[type="number"]{
+    text-align: center;
+    padding:2%;
+}
+#btnctr{
+    width:62%;
+    padding:2%;
+}
+.row:nth-child(even){
+    padding: 5% 0px;
+margin-bottom: 10%;
+}
